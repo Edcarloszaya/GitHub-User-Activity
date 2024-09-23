@@ -1,4 +1,4 @@
-Sample solution for the [https://roadmap.sh/projects/github-user-activity]github-user-activity challenge from [https://roadmap.sh/]roadmap.sh.
+Sample solution for the [github-user-activity](https://roadmap.sh/projects/github-user-activity)github-user-activity challenge from [roadmap](https://roadmap.sh/)
 
 # How to run
 
